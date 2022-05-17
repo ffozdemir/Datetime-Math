@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.exe
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.deps.json
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.runtimeconfig.json
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.dll
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\ref\Datetime-Math.dll
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\bin\Debug\net5.0\Datetime-Math.pdb
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.dll
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\ref\Datetime-Math.dll
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.pdb
+C:\Users\Owner\Desktop\Yazılım\Pratikler\Datetime-Math\obj\Debug\net5.0\Datetime-Math.genruntimeconfig.cache
